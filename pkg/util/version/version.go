@@ -14,11 +14,7 @@
 
 package version
 
-<<<<<<< HEAD
-var version = "0.59.0-HAYFRP"
-=======
-var version = "0.60.0"
->>>>>>> fe4ca1b54e9045ea91ffa4645ac8f39bb2e770ef
+var version = "HAYFRP-0.60.0"
 
 func Full() string {
 	return version
